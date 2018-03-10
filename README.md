@@ -1,0 +1,2 @@
+# lostinmaze
+A free game.
